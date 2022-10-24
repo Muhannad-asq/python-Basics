@@ -10,6 +10,8 @@ if x < 20 :
     
 
 
+
+
 ● Create an integer variable named y
 
 y = 15
